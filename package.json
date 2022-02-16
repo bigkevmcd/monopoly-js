@@ -1,0 +1,14 @@
+{
+  "name": "monopoly",
+  "version": "0.0.1",
+  "description": "Just a project to demo the Monopoly Kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "",
+  "license": "Public Domain",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.3.2"
+  }
+}
